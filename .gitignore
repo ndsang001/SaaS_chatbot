@@ -1,0 +1,6 @@
+backend/google-cloud-sdk/
+backend/project-9f99f4e9-cdc0-4839-9cd-c5fd5909a753.json
+backend/app/__pycache__/
+backend/app/*/__pycache__/
+backend/venv/
+backend/logs.db
