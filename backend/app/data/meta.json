@@ -1,0 +1,62 @@
+{
+  "chunk_ids": [
+    "c00000",
+    "c00001",
+    "c00002",
+    "c00003",
+    "c00004",
+    "c00005",
+    "c00006",
+    "c00007"
+  ],
+  "meta": {
+    "c00000": {
+      "title": "faq account creation",
+      "section": null,
+      "source": "faq_account_creation.md",
+      "text": "# Account Creation\n\n## How do I create an account?\n\nTo create an account, click the \"Sign Up\" button on the homepage.\nEnter your email address, create a password, and confirm your email.\n\nYou must use a valid email address because a verification link will be sent to your inbox.\n\n## Why didn’t I receive a verification email?\n\nIf you did not receive a verification email:\n- Check your spam or junk folder.\n- Ensure you entered the correct email address.\n- Wait a few minutes, as delivery may be delayed.\n\nIf the email still does not arrive, you can request a new verification link from the login page.\n\n## Can I change my email address later?\n\nYes. You can update your email address from your account settings page.\nYou will need to verify the new email before the change becomes active."
+    },
+    "c00001": {
+      "title": "faq account management",
+      "section": null,
+      "source": "faq_account_management.md",
+      "text": "# Account Management\n\n## How do I update my profile information?\n\nGo to Account Settings and select \"Profile\".\nYou can update your name, company information, and contact details.\n\n## How do I delete my account?\n\nTo delete your account:\n1. Go to Account Settings.\n2. Select \"Delete Account\".\n3. Confirm the deletion.\n\nAccount deletion is permanent and cannot be undone.\n\n## What happens to my data after deletion?\n\nAll personal data is permanently removed within 30 days."
+    },
+    "c00002": {
+      "title": "faq billing",
+      "section": null,
+      "source": "faq_billing.md",
+      "text": "# Billing and Payments\n\n## What payment methods are supported?\n\nWe support credit cards and debit cards through secure payment processing.\n\n## When will I be charged?\n\nYou are charged at the beginning of each billing cycle.\nMonthly plans are billed every 30 days.\n\n## Can I get a refund?\n\nRefunds are evaluated on a case-by-case basis.\nPlease contact customer support within 14 days of your billing date."
+    },
+    "c00003": {
+      "title": "faq features",
+      "section": null,
+      "source": "faq_features.md",
+      "text": "# Product Features\n\n## What are the main features of the platform?\n\nThe platform includes:\n- Dashboard analytics\n- Project management tools\n- Collaboration features\n- Exportable reports\n\n## Can I export my data?\n\nYes. You can export reports in CSV format from the Reports section.\n\n## Is there a mobile app?\n\nCurrently, the platform is optimized for web browsers.\nA mobile app is planned for a future release."
+    },
+    "c00004": {
+      "title": "faq login",
+      "section": null,
+      "source": "faq_login.md",
+      "text": "# Login and Authentication\n\n## I forgot my password. What should I do?\n\nClick the \"Forgot Password\" link on the login page.\nEnter your registered email address, and we will send you a password reset link.\n\nThe reset link expires after 30 minutes for security reasons.\n\n## Why is my account locked?\n\nYour account may be temporarily locked after multiple failed login attempts.\nPlease wait 15 minutes before trying again or reset your password.\n\n## Can I stay logged in?\n\nYes. When logging in, you can select the \"Remember Me\" option.\nThis keeps you logged in on your device for up to 7 days."
+    },
+    "c00005": {
+      "title": "faq security",
+      "section": null,
+      "source": "faq_security.md",
+      "text": "# Security and Data Protection\n\n## How is my data protected?\n\nWe use encryption in transit and at rest.\nAll communication is secured using HTTPS.\n\n## Do you store passwords in plain text?\n\nNo. Passwords are hashed using industry-standard cryptographic hashing algorithms.\n\n## How can I enable two-factor authentication?\n\nYou can enable two-factor authentication (2FA) from your Security Settings page.\nFollow the instructions to connect your authenticator app."
+    },
+    "c00006": {
+      "title": "faq subscription",
+      "section": null,
+      "source": "faq_subscription.md",
+      "text": "# Subscription Plans\n\n## What subscription plans are available?\n\nWe offer three subscription plans:\n- Basic\n- Pro\n- Enterprise\n\nEach plan includes different feature sets and usage limits.\n\n## Can I upgrade my subscription?\n\nYes. You can upgrade your subscription at any time from the Billing section of your account settings.\nUpgrades take effect immediately.\n\n## Can I downgrade my subscription?\n\nYes. Downgrades will take effect at the start of your next billing cycle."
+    },
+    "c00007": {
+      "title": "faq support",
+      "section": null,
+      "source": "faq_support.md",
+      "text": "# Customer Support\n\n## How can I contact support?\n\nYou can contact support through the Help section inside the platform.\n\n## What are your support hours?\n\nSupport is available Monday to Friday, 9 AM to 5 PM (UTC).\n\n## Do you offer priority support?\n\nPriority support is available for Enterprise plan customers."
+    }
+  }
+}

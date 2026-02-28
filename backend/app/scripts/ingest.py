@@ -77,7 +77,7 @@ def main() -> None:
     out_meta.parent.mkdir(parents=True, exist_ok=True)
     out_meta.write_text(json.dumps({"chunk_ids": all_ids, "meta": meta}, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print("✅ Ingestion complete")
+    print("Ingestion complete")
     print(f"- chunks: {len(all_ids)}")
     print(f"- index:  {out_index}")
     print(f"- meta:   {out_meta}")

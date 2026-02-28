@@ -1,0 +1,11 @@
+id,session_id,user_question,retrieved_chunk_ids,model_answer,latency_ms,timestamp,not_in_kb
+1,demo-session-1,How do I reset my password?,[],Prototype backend is running. RAG will be enabled in Phase 3.,0,2026-02-19 15:58:11,0
+2,demo-session-1,How do I reset my password?,[],Prototype backend is running. RAG will be enabled in Phase 3.,0,2026-02-19 16:00:07,0
+3,demo1,How long does the password reset link last?,"[""c00004"", ""c00000"", ""c00001"", ""c00005""]",The password reset link expires after 30 minutes for security reasons [c000,7817,2026-02-23 02:30:26,0
+4,verify4,How long does the password reset link last?,"[""c00004"", ""c00000"", ""c00001"", ""c00005""]",The password reset link expires after 30 minutes for security reasons [c000,10081,2026-02-26 22:03:15,0
+5,s_c7a17412-4edc-4ecc-8371-fd8de0059702,How long does the password reset link last?,"[""c00004"", ""c00000"", ""c00001"", ""c00005""]",The password reset link expires after 30 minutes for security reasons [c000,9378,2026-02-27 04:22:11,0
+6,s_c7a17412-4edc-4ecc-8371-fd8de0059702,What are your support hours?,"[""c00007"", ""c00002"", ""c00004"", ""c00006""]","Support is available Monday to Friday, from 9 AM to 5 PM (UTC) [c0",5403,2026-02-27 04:23:32,0
+7,s_c7a17412-4edc-4ecc-8371-fd8de0059702,Can you reset my password for me?,"[""c00004"", ""c00000"", ""c00005"", ""c00001""]","I cannot reset your password for you, but you can easily do it yourself.
+
+To reset",5926,2026-02-27 04:24:14,0
+8,s_c7a17412-4edc-4ecc-8371-fd8de0059702,Can you delete my account for me right now?,"[""c00001"", ""c00004"", ""c00000"", ""c00002""]","I cannot delete your account for you. To delete your account, you must do it",5997,2026-02-27 04:25:16,0

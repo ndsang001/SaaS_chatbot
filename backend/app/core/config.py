@@ -1,8 +1,7 @@
 from pydantic import BaseModel
-from dotenv import load_dotenv
 import os
-
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 class Settings(BaseModel):
     # Google Cloud / Vertex AI

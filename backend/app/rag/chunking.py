@@ -25,7 +25,6 @@ def split_into_chunks(
     """
     Simple character-based chunking.
     - predictable
-    - easy to explain in thesis
     """
     text = normalize_text(text)
     if not text:

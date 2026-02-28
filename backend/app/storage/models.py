@@ -16,6 +16,12 @@ def init_db(conn: sqlite3.Connection) -> None:
     )
     """)
 
+    # If table already exists, add column safely
+    try:
+        cur.execute("ALTER TABLE chat_turns ADD COLUMN not_in_kb INTEGER DEFAULT 0")
+    except Exception:
+        pass
+
     cur.execute("""
     CREATE TABLE IF NOT EXISTS feedback (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
